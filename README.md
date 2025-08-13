@@ -146,4 +146,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-**Tip:** To view this README in **raw Markdown** on GitHub, click the **"Raw"** button above the file preview or append `?raw=true` to the URL.
